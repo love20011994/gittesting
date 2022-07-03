@@ -9,3 +9,4 @@ const b = a.map((r,s)=>{
       console.log(r,s)
      }
 })
+{oo}
